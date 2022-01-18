@@ -1,11 +1,11 @@
 import React from 'react'
-
-const App = () => {
+import './cta.css'
+const CTA = () => {
     return (
         <div>
-            <h1>GPT-3</h1>
+            CTA
         </div>
     )
 }
 
-export default App
+export default CTA
