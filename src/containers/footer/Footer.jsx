@@ -1,6 +1,6 @@
 import React from 'react'
 import './footer.css'
-import gpt3Logo from '../../assets/logo.svg';
+import logo from '../../assets/logo1.png';
 
 const Footer = () => {
     return (
@@ -15,7 +15,7 @@ const Footer = () => {
 
             <div className="gpt3__footer-links">
                 <div className="gpt3__footer-links_logo">
-                    <img src={gpt3Logo} alt="logo" />
+                    <img src={logo} alt="logo" />
                     <p>AP Tech Designs, <br /> All Rights Reserved</p>
                 </div>
                 <div className="gpt3__footer-links_div">
