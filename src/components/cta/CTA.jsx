@@ -5,7 +5,7 @@ const CTA = () => (
   <div className="gpt3__cta">
     <div className="gpt3__cta-content">
       <p>Solutions</p>
-      <h3>We provide machines, parts, or complete integrated systems tailored to your industry and facility.
+      <h3>Customer Focused Employees – This starts at the top.
 </h3>
     </div>
     <div className="gpt3__cta-btn">

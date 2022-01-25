@@ -6,8 +6,8 @@ const Header = () => {
     return (
         <div className="gpt3__header section__padding" id="home">
             <div className="gpt3__header-content">
-                <h1 className="gradient__text">MURATEC IS A WORLD LEADER IN MACHINE TOOL TECHNOLOGY</h1>
-                <p>Murata Machinery USA, Inc. is a subsidiary of Murata Machinery Ltd., a world leader in machine tool technology, automated material handling systems, clean room automation, and textile machinery. Established in 1935, Murata Machinery Ltd., is the sole manufacturer of the Muratec brand, which is synonymous with industrial automation and reliability across our extensive product line.</p>
+                <h1 className="gradient__text">Muratek has been helping companies with their IT needs since 1999</h1>
+                <p>Our founder and CEO, Paul Muratore believes that the heart of our success is our dedicated and talented employees. Headquartered in the Financial District of Manhattan, Muratek is an information technology solutions provider that serves the tri-state area. In addition to IT Support in New York, we also have locations that offer IT Services in Raleigh, NC, and one in Chicago that is coming soon. <br /> Muratek is an end-to-end provider, offering everything from network management to help desk support and web/application development for small to medium-sized businesses. We create integrated systems that are coordinated and maintained by seasoned professionals trained and experienced in the newest technologies.</p>
 
                     <div className="gpt3__header-content__input">
                     <input type="email" placeholder="Your Email Address" />

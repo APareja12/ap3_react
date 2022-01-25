@@ -13,10 +13,10 @@ const Blog = () => {
                     <Article imgUrl={blog01} date="Sep 26, 2021" text="Automated Guided Vehicles" />   
                 </div>
                 <div className="gpt3__blog-container_groupB">
-                    <Article imgUrl={blog02} date="Sep 26, 2021" text="Machine Rebuild Program" />
-                    <Article imgUrl={blog03} date="Sep 26, 2021" text="3 WAREHOUSE AUTOMATION SOLUTIONS THAT MAXIMIZE PRODUCTION DURING LABOR SHORTAGES" />
-                    <Article imgUrl={blog04} date="Sep 26, 2021" text="MURATA MACHINERY USA DEBUTS THE FIRST HYBRID FIBER LASER MACHINE AT FABTECH 2021" />
-                    <Article imgUrl={blog05} date="Sep 26, 2021" text="AGV ROI: A DEEPER COST-BENEFIT ANALYSIS FOR AUTOMATED GUIDED VEHICLES" />
+                    <Article imgUrl={blog02} date="Sep 26, 2021" text="Network Evaluation" />
+                    <Article imgUrl={blog03} date="Sep 26, 2021" text="Portfolios and Microsites" />
+                    <Article imgUrl={blog04} date="Sep 26, 2021" text="Custom Solution Development" />
+                    <Article imgUrl={blog05} date="Sep 26, 2021" text="Are you ready to start building that dream website or web application?" />
                 </div>
             </div>
         </div>
